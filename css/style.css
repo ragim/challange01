@@ -29,7 +29,15 @@ a:hover {
   border-radius: 4px;
   box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
 }
-
+.responsetable {
+  padding: 0;
+  border-collapse: collapse;
+  margin: auto;
+}
+.responsestable td, th{
+  padding: 10px;
+  border: 1px solid black;
+}
 .tab-group {
   list-style: none;
   padding: 0;
